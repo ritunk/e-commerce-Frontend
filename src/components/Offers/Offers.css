@@ -1,6 +1,6 @@
 .offers{
     width: 65%;
-    height: 60vh;
+    height: 100vh;
     display: flex;
     margin: auto;
     margin-top: 100px;
@@ -52,7 +52,8 @@
     display: flex;
     align-items: center;
     justify-content: 50px;
-    padding-top: 50px;
+    
+    padding-top: 140px;
     /* background-color: #ff4141; */
     margin-top: 60px;
     margin-left: 75px;
